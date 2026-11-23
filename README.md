@@ -66,7 +66,6 @@ Use at your own risk.
 
 Aspiring IT Support Specialist with an interest in Windows administration, computer hardware, troubleshooting, PowerShell automation, and software development.
 
-GitHub: [Your GitHub Profile](https://github.com/)
 
 ---
 
